@@ -29,6 +29,9 @@ This contract uses `block.times
 | `greet()`       | `view` | Returns a full greeting message          |
 | `currentDay()`  | `view` | Returns the current day of the week      |
 
+##Screenshot
+![Screenshot 2025-05-26 143900](https://github.com/user-attachments/assets/bfd9e76e-f343-44df-97db-afed629c8361)
+
 ### Days Used:
 Internally uses an array:
 ```solidity
@@ -52,10 +55,7 @@ Example output:
 > currentDay()
 "Wednesday"
 
-Here's an attached screnshot for the transaction:
 
-
-![Screenshot 2025-05-26 143900](https://github.com/user-attachments/assets/0e827548-9849-44ba-9d8d-6066ced81e2d)
 
 
 
